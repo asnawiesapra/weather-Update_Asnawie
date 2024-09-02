@@ -1,0 +1,9 @@
+h1 {
+}
+.weather-container {
+  margin: 10%;
+  padding: 10%;
+  text-align: center;
+  background-image: url(https://img.freepik.com/free-photo/cloud-sky-twilight-times_74190-4017.jpg?t=st=1723620778~exp=1723624378~hmac=2aa6f8cec9e739fc68ccc15906d256851e38f1754fcaae62b1990ab5ebe9ba64&w=900);
+  font-size: large;
+}
